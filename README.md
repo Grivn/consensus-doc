@@ -1,2 +1,5 @@
 # consensus-doc
-reminder for consensus algorithm
+
+[quorum system](quorum)
+
+[practical byzantine fault tolerance (pbft)](pbft)
