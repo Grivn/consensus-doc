@@ -1,4 +1,4 @@
-# consensus-doc
+# consensus-doc (CN)
 
 [quorum system](quorum)
 
